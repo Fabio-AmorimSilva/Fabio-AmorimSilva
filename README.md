@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fabio-AmorimSilva
 - 👀 I’m interested in web development and OO programming.
-- 🌱 I’m currently learning Angularjs, C#, ASP.NET MVC, Web Api, and other things. 
+- 🌱 I’m currently learning Angularjs, C#, ASP.NET MVC, Web Api, Angular and other things. 
 - 💞️ I’m looking to collaborate on new technologies and learning new things.
 - 📫 How to reach me: here at my github and LinkedIn https://www.linkedin.com/in/fabio-amorim-da-silva-185082205/
 
