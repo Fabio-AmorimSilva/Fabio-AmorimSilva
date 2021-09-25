@@ -2,9 +2,8 @@
 
 <h3> 👨: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 &nbsp; Explorando novas tecnologias de desenvolvimento de software com foco em desenvolvimento web principalmente envolvendo o ecossistema .NET.
 - 🎓 &nbsp; Estudando **Bacharelado em Ciência da Computação** no <a href="https://www.ibilce.unesp.br/">Universidade Estadual Paulista - Institulo de Biociências, Letras e Ciências Exatas</a>.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
 - 🌱 &nbsp; Aprendendo mais sobre **C#, ASP.NET MVC, Web Api, Angular, MS SQL, NoSQL**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -23,6 +22,7 @@
 
 **Utilidades**
 
+  ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 **DevOps**
