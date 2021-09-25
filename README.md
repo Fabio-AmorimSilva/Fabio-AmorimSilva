@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on new technologies and learning new things.
 - 📫 How to reach me: here at my github and LinkedIn https://www.linkedin.com/in/fabio-amorim-da-silva-185082205/
 
-[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/Fabio-AmorimSilva/)
+[![card](https://github-readme-stats.vercel.app/api?username=Fabio-AmorimSilva&theme=default)](https://github.com/Fabio-AmorimSilva/)
 
 
 <!---
