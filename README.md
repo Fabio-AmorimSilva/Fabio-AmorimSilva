@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on new technologies and learning new things.
 - 📫 How to reach me: here at my github and LinkedIn https://www.linkedin.com/in/fabio-amorim-da-silva-185082205/
 
+[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/Fabio-AmorimSilva/)
+
+
 <!---
 Fabio-AmorimSilva/Fabio-AmorimSilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
