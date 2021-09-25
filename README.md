@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
+![](https://komarev.com/ghpvc/?username=Fabio-AmorimSilva&color=006bed)
 
 <h3> 👨: &nbsp;Sobre mim </h3>
 
@@ -45,9 +45,9 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Fabio Amorim da Silva](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/fabio-amorim-da-silva-185082205/)](Fabio-AmorimSilva)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabioamorin120@gmail.com)](mailto:fabioamorin120@gmail.com)
-[![GitHub Fabio Amorim da Silva]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/Fabio-AmorimSilva/Fabio-AmorimSilva)
+[![Linkedin:Fabio Amorim da Silva](https://img.shields.io/badge/-Fabio-AmorimSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/fabio-amorim-da-silva-185082205/)](Fabio-AmorimSilva)
+[![Gmail Badge](https://img.shields.io/badge/-fabioamorin120@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabioamorin120@gmail.com)](mailto:fabioamorin120@gmail.com)
+[![GitHub Fabio Amorim da Silva]( https://img.shields.io/github/followers/Fabio-AmorimSilva?label=follow&style=social)](https://github.com/Fabio-AmorimSilva/Fabio-AmorimSilva)
 
 
 
