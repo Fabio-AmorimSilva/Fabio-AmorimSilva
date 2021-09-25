@@ -3,7 +3,7 @@
 <h3> 👨: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias de desenvolvimento de software com foco em desenvolvimento web principalmente envolvendo o ecossistema .NET.
-- 🎓 &nbsp; Estudando **Bacharelado em Ciência da Computação** no <a href="https://www.ibilce.unesp.br/">Universidade Estadual Paulista - Institulo de Biociências, Letras e Ciências Exatas</a>.
+- 🎓 &nbsp; Estudando **Bacharelado em Ciência da Computação** na <a href="https://www.ibilce.unesp.br/">Universidade Estadual Paulista - Institulo de Biociências, Letras e Ciências Exatas</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **C#, ASP.NET MVC, Web Api, Angular, MS SQL, NoSQL**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -33,6 +33,8 @@
 **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=2C2255)
+  ![Net Beans](https://img.shields.io/badge/-Net%20Beans-333333?style=flat&logo=net-beanso&logoColor=2C2255)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 <br/>
