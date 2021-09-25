@@ -11,14 +11,14 @@
 
 **Aplicações e Dados**
 
-  ![C#](https://img.shields.io/badge/C%23-333333?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![.NET](https://img.shields.io/badge/.NET-333333?style=for-the-badge&logo=.net&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp&logoColor=white)
+  ![.NET](https://img.shields.io/badge/.NET-333333?style=flat&logo=.net&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Angular](https://img.shields.io/badge/Angular-333333?style=for-the-badge&logo=angular&logoColor=white)
-  ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-333333?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-333333?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-333333?style=flat&logo=angular&logoColor=white)
+  ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-333333?style=flat&logo=microsoft-sql-server&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-333333?style=flat&logo=sqlite&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 **Utilidades**
