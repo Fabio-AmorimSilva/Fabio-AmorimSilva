@@ -3,8 +3,8 @@
 <h3> 👨: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias de desenvolvimento de software com foco em desenvolvimento web, principalmente envolvendo o ecossistema .NET.
-- 🎓 &nbsp; Estudando **Bacharelado em Ciência da Computação** na <a href="https://www.ibilce.unesp.br/">Universidade Estadual Paulista - Institulo de Biociências, Letras e Ciências Exatas</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **C#, ASP.NET MVC, Web Api, Angular, MS SQL, NoSQL, Design Patterns e Domain-Driven Design**.
+- 🎓 &nbsp; Bacharelado em Ciência da Computação** epla <a href="https://www.ibilce.unesp.br/">Universidade Estadual Paulista - Institulo de Biociências, Letras e Ciências Exatas</a>.
+- 🌱 &nbsp; Aprendendo mais sobre **C#, ASP.NET MVC, Web Api, Angular, ReactJs, MS SQL, NoSQL, Design Patterns, Clean Code e Microsoft Azure**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
