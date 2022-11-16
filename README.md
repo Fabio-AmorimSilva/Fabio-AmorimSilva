@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias de desenvolvimento de software com foco em desenvolvimento web, principalmente envolvendo o ecossistema .NET.
 - 🎓 &nbsp; Bacharel em Ciência da Computação** pela <a href="https://www.ibilce.unesp.br/">Universidade Estadual Paulista - Institulo de Biociências, Letras e Ciências Exatas</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **C#, ASP.NET MVC, Web Api, Angular, ReactJs, MS SQL, NoSQL, Design Patterns, Clean Code e Microsoft Azure**.
+- 🌱 &nbsp; Aprendendo mais sobre **C#, ASP.NET, MVC, Web Api, Angular, Vuejs, MS SQL, NoSQL, Design Patterns, Clean Archtecture, Clean Code e Microsoft Azure**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -59,7 +59,6 @@
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-FabioAmorim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabio-amorim-da-silva-185082205/)](https://www.linkedin.com/in/fabio-amorim-da-silva-185082205/)
 [![Gmail Badge](https://img.shields.io/badge/-fabioamorin120@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabioamorin120@gmail.com)](mailto:fabioamorin120@gmail.com)
 [![GitHub Fabio Amorim da Silva]( https://img.shields.io/github/followers/Fabio-AmorimSilva?label=follow&style=social)](https://github.com/Fabio-AmorimSilva/Fabio-AmorimSilva)
-
 
 
 <!---
