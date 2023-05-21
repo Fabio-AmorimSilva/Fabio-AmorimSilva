@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias de desenvolvimento de software com foco em desenvolvimento web, principalmente envolvendo o ecossistema .NET.
 - 🎓 &nbsp; Bacharel em Ciência da Computação** pela <a href="https://www.ibilce.unesp.br/">Universidade Estadual Paulista - Institulo de Biociências, Letras e Ciências Exatas</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **C#, ASP.NET, MVC, Web Api, Angular, Vuejs, MS SQL, NoSQL, Design Patterns, Clean Archtecture, Clean Code e Microsoft Azure**.
+- 🌱 &nbsp; Aprendendo mais sobre **C#, ASP.NET, Web Api, MS SQL, NoSQL, Design Patterns, Clean Archtecture, Clean Code e Microsoft Azure**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -12,10 +12,6 @@
 
   ![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp&logoColor=white)
   ![.NET](https://img.shields.io/badge/.NET-333333?style=flat&logo=.net&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Angular](https://img.shields.io/badge/Angular-333333?style=flat&logo=angular&logoColor=white)
   ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-333333?style=flat&logo=microsoft-sql-server&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-333333?style=flat&logo=sqlite&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -34,8 +30,6 @@
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=52005F)
-  ![Net Beans](https://img.shields.io/badge/-Net%20Beans-333333?style=flat&logo=net-beanso&logoColor=2C2255)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 <br/>
 
